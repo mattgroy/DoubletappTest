@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DoubletappTest</string>
+    <string name="btn_continue">Продолжить</string>
+    <string name="txt_cfg_change_count">Количество смен конфигураций</string>
+    <string name="txt_activity_first">Activity 1</string>
+    <string name="txt_activity_second">Activity 2</string>
+    <string name="title_activity_square_count">SquareCountActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
